@@ -9,6 +9,6 @@ Our technology is used by our sister company, [Jeeliz](https://jeeliz.com), to p
 
 ### Follow-us
 
-Linkedin: https://linkedin.com/company/webar-rocks
-X: https://x.com/WebARRocks
-Youtube: https://www.youtube.com/@webarrocks
+* Linkedin: https://linkedin.com/company/webar-rocks
+* X: https://x.com/WebARRocks
+* Youtube: https://www.youtube.com/@webarrocks

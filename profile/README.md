@@ -1,7 +1,7 @@
 **We build augmented reality libraries for the Web**
 
 They rely on our cutting edge deep learning engine to provide the best web AR experience.
-Developed directly in JavaScript/WebGL, it is between 2 and 10 times faster than Tensorflow.js.
+Developed directly in JavaScript/WebGL, it is between 2 and 10 times faster (depending on the configuration) than *Tensorflow.js*.
 
 Official website: https://webar.rocks
 
